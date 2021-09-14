@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rosie Holliday
-- 👀 I’m interested in making things work
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in making things work in unconventional ways
+- 🌱 I’m currently improving my angular skills
 - 📫 How to reach me via twitter @daylight_dev
 
 <!---
